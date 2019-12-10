@@ -1,0 +1,2 @@
+# CHICKEN-MUSIC
+VUE框架的一个音乐APP
